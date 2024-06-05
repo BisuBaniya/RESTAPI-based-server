@@ -1,0 +1,19 @@
+{
+  "name": "projectnode",
+  "version": "1.0.0",
+  "description": "This is a REST API project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BisuBaniya/RESTAPI-based-server.git"
+  },
+  "author": "bisu-siddharth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BisuBaniya/RESTAPI-based-server/issues"
+  },
+  "homepage": "https://github.com/BisuBaniya/RESTAPI-based-server#readme"
+}
